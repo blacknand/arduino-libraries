@@ -1,0 +1,3 @@
+libraries/*
+!libraries/I2C_functions/
+!libraries/utc_data/
